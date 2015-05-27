@@ -1,0 +1,209 @@
+tile.bad.name=Плохой блок
+tile.totem.name=Тотем
+tile.bonfire.name=Костер
+
+item.disabled_armor.name=Слот отключен
+
+item.magic_sphere.tp.name=Сфера телепортации
+item.region_wand.name=Жезл регионов
+item.totem.name=Тотем
+
+item.wooden_spear.name=Деревянное копье
+item.stone_spear.name=Каменное копье
+item.iron_spear.name=Железное копье
+item.golden_spear.name=Золотое копье
+item.diamond_spear.name=Алмазное копье
+
+item.wooden_mace.name=Деревянная булава
+item.stone_mace.name=Каменная булава
+item.iron_mace.name=Железная булава
+item.golden_mace.name=Золотая булава
+item.diamond_mace.name=Алмазная булава
+
+skills.maximum=Максимальный уровень
+skills.available=Доступно улучшение
+skills.unavailable=Улучшение недоступно, необходимо очков опыта: 
+skills.dependence=Необходима способность: 
+
+skills.harvesting=Добыча
+skills.harvesting.harvester=Добытчик
+skills.harvesting.miner=Шахтер
+skills.harvesting.woodcutter=Дровосек
+skills.harvesting.digger=Копатель
+
+skills.archery=Стрельба из лука
+skills.archery.accuracy=Меткий стрелок
+skills.archery.tension=Мастер натяжения
+skills.archery.fastHand=Быстрая рука
+
+attribute.weapon.mountedBonus=Бонус при атаке верхом
+attribute.weapon.skeletonBonus=Бонус против скелетов
+ 
+menu.back=Назад
+menu.use=Использовать
+menu.select=Выбрать
+menu.delete=Удалить
+menu.ok=Ок
+menu.yes=Да
+menu.no=Нет
+menu.character=Персонаж
+menu.create=Создать
+menu.createcharacter=Создать персонажа
+menu.charcreated=Персонаж создан!
+menu.charmax=Превышен лимит создания персонажей!
+menu.selectrace=Выбрать расу
+menu.setname=Задать имя
+menu.samename=Такое имя уже используется!
+menu.wrongname=Некорректное имя!
+menu.emptyname=Имя не должно быть пустым или состоять из одних пробелов!
+menu.wrongnamelength=Имя должно содержать от %1$s до %2$s символов!
+menu.wrongnamesymbols=Имя должно содержать только латинские символы, символы подчеркивания и дефиса!
+menu.developererror=Ошибка в коде, отправьте логи администратору!
+
+menu.changename=Изменить имя
+menu.changerace=Изменить расу
+menu.namechanged=Имя успешно изменено
+menu.racechanged=Раса успешно изменена
+menu.racenotchanged=Не удалось изменить расу!
+
+menu.refresh=Связаться с сервером
+menu.servererror=Ошибка сервера
+
+menu.mustselectrace=Необходимо выбрать расу!
+menu.mustsetname=Необходимо дать персонажу имя!
+
+gui.player=Игрок
+gui.inventory=Инвентарь
+gui.page.previous=Предыдущая страница
+gui.page.next=Следующая страница
+gui.skills=Способности
+gui.skills.points=Доступно очков навыков: 
+gui.skills.previous=Предыдущее дерево
+gui.skills.next=Следующее дерево
+
+death.attack.thirst=%1$s умер от жажды
+
+key.categories.scheme=Управление регионами TotalRPG
+key.creative=Инвентарь творческого режима
+key.interact=Взаимодействовать
+
+interact=Взаимодействовать
+interact.open=Открыть
+interact.close=Закрыть
+interact.use=Использовать
+interact.switch=Переключить
+interact.plant=Посадить
+interact.sleep=Спать
+interact.talk=Поговорить
+interact.trade=Торговать
+interact.mount=Забраться
+interact.saddle=Оседлать
+interact.wear=Одеть
+interact.feed=Покормить
+interact.tame=Приручить
+interact.clone=Размножить
+interact.getinto=Залезть
+
+race.human=Человек
+race.dwarf=Гном
+race.elf=Эльф
+race.goblin=Гоблин
+race.octoid=Октоид
+race.arachnoid=Арахноид
+race.centaurus=Кентавр
+race.fairy=Фея
+
+region.nopoint=Сначала следует отметить крайние точки!
+region.noselect=Сначала следует выбрать регион!
+region.noload=Сначала следует загрузить схему в буфер!
+region.select=Регион отмечен
+region.deselect=Выделение убрано, буфер очищен
+region.select.first=Выбрана первая точка (x: %1$s, y: %2$s, z: %3$s)
+region.select.second=Выбрана вторая точка (x: %1$s, y: %2$s, z: %3$s)
+region.select.pos=Выбрана опорная точка (x: %1$s, y: %2$s, z: %3$s)
+region.pasted=Схема вставлена в мир!
+region.copied1=Схема скопирована в буфер! Для сохранения используйте
+region.copied2=, для вставки -
+region.loaded=Схема из файла %1$s загружена в буфер! Для вставки используйте 
+region.saved=Схема сохранена в файл %1$s!
+region.filled=Регион заполнен!
+region.notloaded=Не удалось загрузить схему из файла %1$s!
+region.notsaved=Не удалось сохранить схему в файл %1$s!
+region.cantfind=Не удалось найти регион %1$s!
+
+action.unknown=Неизвестное действие. Введите %1$s, чтобы получить список допустимых действий
+
+action.undo=Действие было отменено
+action.redo=Действие повторено
+
+command.usage=Использование:
+command.page=cтраница
+
+command.help=Доступные действия
+command.help.desc=Вывод всех возможных действий
+command.help.usage=/%1$s help [Страница|Действие]
+command.help.usage.page=/%1$s help [Страница]
+command.help.usage.action=/%1$s help [Действие]
+command.help.action=Справка по действиям -
+
+command.history=История действий
+command.history.desc=Вывод списка всех произведенных действий
+command.history.usage=/%1$s history [Страница]
+command.history.empty=История пуста
+
+command.undo=Отменить последнее действие
+command.redo=Повторить отмененное/последнее действие
+
+command.invalidsender=Данную команду можно использовать, только находясь на сервере!
+
+command.region.usage=/<region|rg|reg> <действие> <аргументы ...>
+
+command.region.copy.desc=Загрузка схемы из выделения в буфер
+command.region.copy.usage=/region copy
+
+command.region.paste.desc=Вставка схемы из буфера в мир
+command.region.paste.usage=/region paste [x y z]
+
+command.region.save.desc=Сохранение схемы из буфера в файл (если буфер пуст, то в него автоматически загружается текущее выделение)
+command.region.save.usage=/region save <Имя файла>
+
+command.region.load.desc=Загрузка схемы из файла в буфер
+command.region.load.usage=/region load <Имя файла>
+
+command.region.point.desc=Выделение опорной точки
+command.region.point.usage=/region point [Индекс] [x y z]
+
+command.region.select.desc=Создание выделения на основе опорных точек
+command.region.select.usage=/region select
+
+command.region.deselect.desc=Сброс выделения и очистка буфера
+command.region.deselect.usage=/region deselect
+
+command.region.protect.desc=Создание защищенного региона на основе выделения
+command.region.protect.usage=/region protect <Имя региона>
+
+command.region.free.desc=Удаление защищенного региона
+command.region.free.usage=/region free <Имя региона>
+
+command.region.flags.desc=Изменение и просмотр флагов
+command.region.flags.usage=/region flags add|set|clear <Имя региона> <флаги ...>`/region flags clear|list <Имя региона>`/region flags list
+command.region.flags.added=Флаги для региона %1$s добавлены
+command.region.flags.set=Флаги для региона %1$s установлены
+command.region.flags.clear=Флаги для региона %1$s сняты
+command.region.flags.all=Список допустимых флагов:
+command.region.flags.list=Список флагов региона %1$s:
+command.region.flags.no=У региона %1$s нет флагов. Следует установить их или удалить данный регион
+command.region.flags.unknownflag=Неизвестный флаг - %1$s. Введите /region flags list, чтобы получить список допустимых флагов 
+
+command.region.players.desc=Действия над участниками региона. При добавлении игрока по умолчанию устанавливается статус member
+command.region.players.usage=/region players add|remove|status <Имя региона> <Имя игрока> [owner|member]`/region players clear|list <Имя региона>`/region players flags <Действие> <Имя региона> <Имя игрока> <флаги ...>
+command.region.players.added=Игрок %1$s добавлен в регион %2$s
+command.region.players.removed=Игрок %1$s удален из региона %2$s
+command.region.players.clear=Список игроков региона %1$s очищен
+command.region.players.list=Список участников региона %1$s:
+command.region.players.no=В регионе %1$s не записано ни одного игрока
+
+command.region.list=Существующие регионы
+command.region.list.desc=Вывод списка всех существующих регионов
+command.region.list.usage=/region list [Страница]
+command.region.list.empty=Список регионов пуст

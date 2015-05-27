@@ -1,0 +1,173 @@
+tile.bad.name=Bad block
+tile.totem.name=Totem
+tile.bonfire.name=Bonfire
+
+item.disabled_armor.name=Slot has been disabled
+
+item.magic_sphere.tp.name=Teleportation sphere
+item.region_wand.name=Region wand
+item.totem.name=Totem
+
+item.wooden_spear.name=Wooden spear
+item.stone_spear.name=Stone spear
+item.iron_spear.name=Iron spear
+item.golden_spear.name=Golden spear
+item.diamond_spear.name=Diamond spear
+
+item.wooden_mace.name=Wooden mace
+item.stone_mace.name=Stone mace
+item.iron_mace.name=Iron mace
+item.golden_mace.name=Golden mace
+item.diamond_mace.name=Diamond mace
+
+skills.maximum=Max level
+skills.available=Upgrade available
+skills.unavailable=Upgrade unavailable, skill-points needed: 
+skills.dependence=Ability needed: 
+
+skills.harvesting=Harvesting
+skills.harvesting.harvester=Harvester
+skills.harvesting.miner=Miner
+skills.harvesting.woodcutter=Woodcutter
+skills.harvesting.digger=Digger
+
+skills.archery=Archery
+skills.archery.accuracy=Accurate Archer
+skills.archery.tension=Master of Tension
+skills.archery.fastHand=Fast Hand
+
+attribute.weapon.mountedBonus=Bonus when mounted
+attribute.weapon.skeletonBonus=Bonus vs skeletons
+ 
+menu.back=Back
+menu.use=Use
+menu.select=Select
+menu.delete=Delete
+menu.ok=Ok
+menu.yes=Yes
+menu.no=No
+menu.character=Character
+menu.create=Create
+menu.createcharacter=Create character
+menu.charcreated=Character has been created!
+menu.charmax=No more characters are available...
+menu.selectrace=Select race
+menu.setname=Set name
+menu.samename=Name is already in use!
+menu.wrongname=Incorrect name!
+menu.emptyname=Name should be non-empty!
+menu.wrongnamelength=Name should contain from %1$s to %2$s symbols!
+menu.wrongnamesymbols=Incorrect name!
+menu.developererror=Error occurred\nPlease inform developers about it!
+
+menu.changename=Change name
+menu.changerace=Change race
+menu.namechanged=Name has been changed
+menu.racechanged=Race has been changed
+menu.racenotchanged=Can't change race!
+
+menu.refresh=Try to connect to server
+menu.servererror=Server error
+
+menu.mustselectrace=You should select race first!
+menu.mustsetname=You should give a name to this char!
+
+gui.player=Player
+gui.inventory=Inventory
+gui.page.previous=Previous page
+gui.page.next=Next page
+gui.skills=Skills
+gui.skills.points=Available skill points: 
+gui.skills.previous=Previous tree
+gui.skills.next=Next tree
+
+death.attack.thirst=%1$s thirsted to death
+
+key.categories.scheme=TotalRPG regions control
+key.creative=Creative-mode inventory
+key.interact=Interact
+
+interact=Interact
+interact.open=Open
+interact.close=Close
+interact.use=Use
+interact.switch=Switch
+interact.plant=Plant
+interact.sleep=Sleep
+interact.talk=Talk
+interact.trade=Trade
+interact.mount=Mount
+interact.saddle=Saddle
+interact.wear=Wear
+interact.feed=Feed
+interact.tame=Tame
+interact.clone=Clone
+interact.getinto=Get into
+
+race.human=Human
+race.dwarf=Dwarf
+race.elf=Elf
+race.goblin=Goblin
+race.octoid=Octoid
+race.arachnoid=Arachnoid
+race.centaurus=Centaurus
+race.fairy=Fairy
+
+region.nopoint=You must select points by region wand first!
+region.noselect=You must select region by region wand first!
+region.noload=You must load schematics first!
+region.select=Region has been selected
+region.deselect=Region has been deselected
+region.select.first=First point (x: %1$s, y: %2$s, z: %3$s)
+region.select.second=Second point (x: %1$s, y: %2$s, z: %3$s)
+region.select.pos=Position (x: %1$s, y: %2$s, z: %3$s)
+region.pasted=Schematics have been pasted into the World!
+region.copied1=Schematics have been copied to buffer! Now you can use
+region.copied2= or
+region.loaded=Schematics have been loaded from file %1$s!
+region.saved=Schematics have been saved to file %1$s! Now you can use 
+region.pasted=Region has been filled!
+region.notloaded=Can't load schematics from file %1$s!
+region.notsaved=Can't save schematics to file %1$s!
+region.canttfind=Can't find region %1$s!
+
+action.unknown1=Unknown action. Enter
+action.unknown2= to view all actions
+
+action.undo=Action has benn canceled
+action.redo=Action has been repeated
+
+command.usage=Usage:
+
+command.help=Available actions
+command.help.desc=Print list of all available all actions
+command.help.usage=/%1$s help [page|action]
+command.help.usage.page=/%1$s help [page]
+command.help.usage.action=/%1$s help [actions]
+command.help.page=page
+command.help.action=Info about actions -
+
+command.history=Actions history
+command.history.desc=Print list of all executed actions
+command.history.usage=/%1$s history [Page]
+command.history.page=page
+command.history.empty=History is empty
+
+command.undo=Cancel last action
+command.redo=Repeat canceled/last action
+
+command.invalidsender=You can use this command on server only!
+
+command.region.usage=/<region|rg|reg> <action> <arguments ...>
+
+command.region.copy.desc=Copy schematics to buffer
+command.region.copy.usage=/region copy
+
+command.region.paste.desc=Paste schematics from buffer into the World
+command.region.paste.usage=/region place
+
+command.region.save.desc=Save schematics from buffer to file (copy current selection if buffer is empty)
+command.region.save.usage=/region save <file name>
+
+command.region.load.desc=Load schematics from file to buffer
+command.region.load.usage=/region load <file name>
